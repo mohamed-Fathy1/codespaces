@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mohamed Fathy",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Full Stack Software Engineer",
+  email: "Mohamedfathysaied18@gmail.com",
+  gitHub: "mohamed-fathy1",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/mohamed-fathy-8487551ab/",
+  linkedIn: "mohamed-fathy-8487551ab",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
